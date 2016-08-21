@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< HEADg=--n
 te conflict with branch feature2, second change, fourth change
 =======
 rd change
