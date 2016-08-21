@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 adding changes on Brach master second time
+=======
+adding changes on braanch feature1
+
+>>>>>>> feature1
