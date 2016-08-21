@@ -1,1 +1,1 @@
-trying to sreate conflict on branch feature2
+trying to sreate conflict on branch feature2, second change
