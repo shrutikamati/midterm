@@ -1,1 +1,1 @@
-te conflict with branch feature2
+te conflict with branch feature2, second change
