@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 trying to create conflict with brach feature2, third change
+=======
+trying to sreate conflict on branch feature2, second change
+>>>>>>> feature2

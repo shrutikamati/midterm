@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 te conflict with branch feature2, second change, fourth change
+=======
+rd change
+>>>>>>> feature2
