@@ -1,8 +1,12 @@
-<<<<<<< HEAD
+<<<<<<< HEADg=-f-n
 te conflict with branch feature2, second change, fourth change
 =======
 rd change
 >>>>>>> feature2
 Trying rebase
+<<<<<<< HEAD
 first change on master
 second on master
+=======
+changing on feature2
+>>>>>>> feature2
