@@ -1,1 +1,2 @@
 resetting the file
+stash

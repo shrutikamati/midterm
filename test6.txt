@@ -5,3 +5,4 @@ rd change
 >>>>>>> feature2
 Trying rebase
 first change on master
+second on master
